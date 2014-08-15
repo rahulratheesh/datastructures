@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1407321664 source:/home/rahul/cppprog/progabs/average.cpp
+	"simpio.h"
+	<iostream>
+
+1407255863 /home/rahul/cppprog/progabs/simpio.h
+	<string>
+
+1407319605 source:/home/rahul/cppprog/progabs/simpio.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	"simpio.h"
+
+1407316546 source:/home/rahul/cppprog/progabs/random.cpp
+	<cstdlib>
+	<cmath>
+	<ctime>
+	"random.h"
+
+1407316347 /home/rahul/cppprog/progabs/random.h
+
+1407320033 source:/home/rahul/cppprog/progabs/error.cpp
+	<exception>
+	<string>
+	<iostream>
+	"error.h"
+
+1407321330 /home/rahul/cppprog/progabs/error.h
+	<string>
+	<exception>
+
+1407319897 source:/home/rahul/cppprog/progabs/strlib.cpp
+	<cctype>
+	<iostream>
+	<sstream>
+	"error.h"
+	"strlib.h"
+
+1407319823 /home/rahul/cppprog/progabs/strlib.h
+	<iostream>
+	<string>
+
+1407479344 source:/home/rahul/cppprog/progabs/raise.cpp
+	<iostream>
+
+1407512487 source:/home/rahul/cppprog/progabs/palindrome.cpp
+	<iostream>
+	<cstring>
+	"simpio.h"
+
+1407566848 source:/home/rahul/cppprog/progabs/permute.cpp
+	<iostream>
+	"simpio.h"
+
+1407653033 source:/home/rahul/cppprog/progabs/addressbook.cpp
+	<iostream>
+	"simpio.h"
+
+1407745734 source:/home/rahul/cppprog/progabs/linkedlist.cpp
+	<iostream>
+	"simpio.h"
+
+1407855064 source:/home/rahul/cppprog/progabs/sort.cpp
+	<iostream>
+	<vector>
+
+1407929892 source:/home/rahul/cppprog/progabs/myvector.cpp
+	"myvector.h"
+	"error.h"
+
+1408023676 /home/rahul/cppprog/progabs/myvector.h
+	<iostream>
+	<cstring>
+	"myvector.cpp"
+
+1408024186 source:/home/rahul/cppprog/progabs/myvector_client.cpp
+	"myvector.h"
+
+1408024070 /home/rahul/cppprog/progabs/myvector.cpp
+	"myvector.h"
+	"error.h"
+
+1408024078 source:/home/rahul/cppprog/progabs/mystack.cpp
+	"mystack.h"
+	<iostream>
+
+1408026326 /home/rahul/cppprog/progabs/mystack.h
+	"myvector.h"
+	"mystack.cpp"
+
+1408026432 source:/home/rahul/cppprog/progabs/mystack_client.cpp
+	"mystack.h"
+
+1408026458 /home/rahul/cppprog/progabs/mystack.cpp
+	"mystack.h"
+	<iostream>
+
+1408106274 source:/home/rahul/cppprog/progabs/myqueue_client.cpp
+	"myqueue.h"
+	<iostream>
+
+1408106370 /home/rahul/cppprog/progabs/myqueue.h
+	"myqueue.cpp"
+
+1408106565 /home/rahul/cppprog/progabs/myqueue.cpp
+	"myqueue.h"
+	"error.h"
+	<iostream>
+
