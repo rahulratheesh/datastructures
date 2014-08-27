@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="error.cpp" open="0" top="0" tabpos="3">
-		<Cursor position="0" topLine="9" />
-	</File>
 	<File name="error.h" open="0" top="0" tabpos="4">
 		<Cursor position="1209" topLine="6" />
 	</File>
-	<File name="file.txt" open="0" top="0" tabpos="5">
-		<Cursor position="855" topLine="0" />
+	<File name="filereader.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1796" topLine="0" />
 	</File>
-	<File name="map.h" open="0" top="0" tabpos="4">
-		<Cursor position="0" topLine="3" />
+	<File name="myfile.txt" open="1" top="0" tabpos="3">
+		<Cursor position="752" topLine="0" />
+	</File>
+	<File name="myhashmap.h" open="0" top="0" tabpos="1">
+		<Cursor position="383" topLine="15" />
+	</File>
+	<File name="mymap.h" open="0" top="0" tabpos="1">
+		<Cursor position="532" topLine="0" />
 	</File>
 	<File name="myqueue.h" open="0" top="0" tabpos="0">
 		<Cursor position="342" topLine="0" />
@@ -25,16 +28,10 @@
 	<File name="set.h" open="0" top="0" tabpos="5">
 		<Cursor position="319" topLine="0" />
 	</File>
-	<File name="simpio.cpp" open="0" top="0" tabpos="1">
-		<Cursor position="816" topLine="16" />
-	</File>
-	<File name="simpio.h" open="0" top="0" tabpos="2">
-		<Cursor position="1382" topLine="32" />
-	</File>
-	<File name="strlib.cpp" open="0" top="0" tabpos="0">
-		<Cursor position="0" topLine="156" />
-	</File>
 	<File name="strlib.h" open="0" top="0" tabpos="3">
-		<Cursor position="0" topLine="0" />
+		<Cursor position="2717" topLine="80" />
+	</File>
+	<File name="temp.txt" open="1" top="0" tabpos="2">
+		<Cursor position="22" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>

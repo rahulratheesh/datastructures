@@ -50,9 +50,8 @@
 	<cstring>
 	"simpio.h"
 
-1407566848 source:/home/rahul/cppprog/progabs/permute.cpp
+1409054362 source:/home/rahul/cppprog/progabs/permute.cpp
 	<iostream>
-	"simpio.h"
 
 1407653033 source:/home/rahul/cppprog/progabs/addressbook.cpp
 	<iostream>
@@ -62,9 +61,11 @@
 	<iostream>
 	"simpio.h"
 
-1407855064 source:/home/rahul/cppprog/progabs/sort.cpp
+1408909133 source:/home/rahul/cppprog/progabs/sort.cpp
 	<iostream>
 	<vector>
+	<set>
+	<algorithm>
 
 1407929892 source:/home/rahul/cppprog/progabs/myvector.cpp
 	"myvector.h"
@@ -86,15 +87,16 @@
 	"mystack.h"
 	<iostream>
 
-1408026326 /home/rahul/cppprog/progabs/mystack.h
-	"myvector.h"
+1408104954 /home/rahul/cppprog/progabs/mystack.h
 	"mystack.cpp"
 
 1408026432 source:/home/rahul/cppprog/progabs/mystack_client.cpp
 	"mystack.h"
 
-1408026458 /home/rahul/cppprog/progabs/mystack.cpp
+1409116712 /home/rahul/cppprog/progabs/mystack.cpp
 	"mystack.h"
+	<cstdio>
+	<cstdlib>
 	<iostream>
 
 1408106274 source:/home/rahul/cppprog/progabs/myqueue_client.cpp
@@ -108,4 +110,57 @@
 	"myqueue.h"
 	"error.h"
 	<iostream>
+
+1409055978 source:/home/rahul/cppprog/progabs/mymap_client.cpp
+	"mymap.h"
+	<iostream>
+
+1408342954 /home/rahul/cppprog/progabs/mymap.h
+	<cstring>
+	"myvector.h"
+	"mymap.cpp"
+
+1409056254 /home/rahul/cppprog/progabs/mymap.cpp
+	"mymap.h"
+	<cstring>
+	<iostream>
+
+1408772454 source:/home/rahul/cppprog/progabs/myhashmap_client.cpp
+	"myhashmap.h"
+	<iostream>
+
+1408772330 /home/rahul/cppprog/progabs/myhashmap.h
+	<iostream>
+	<cstring>
+	"myhashmap.cpp"
+
+1408772746 /home/rahul/cppprog/progabs/myhashmap.cpp
+	"myhashmap.h"
+	"error.h"
+
+1409051826 source:/home/rahul/cppprog/progabs/subsets.cpp
+	<iostream>
+	"simpio.h"
+
+1409123102 source:/home/rahul/cppprog/progabs/filereader.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<map>
+
+1409114551 /home/rahul/cppprog/progabs/tokenscanner.h
+	<iostream>
+	<string>
+
+1409116903 source:/home/rahul/cppprog/progabs/tokenscanner.cpp
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<sstream>
+	"tokenscanner.h"
+	"strlib.h"
+	"mystack.h"
 

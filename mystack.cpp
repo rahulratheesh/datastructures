@@ -1,4 +1,6 @@
 #include "mystack.h"
+#include <cstdio>
+#include <cstdlib>
 #include <iostream>
 
 using namespace std;
@@ -32,7 +34,10 @@ void MyStack<ElemType>::push(ElemType s) {
 
 template <typename ElemType>
 ElemType MyStack<ElemType>::pop() {
-    if ( isEmpty() ) error("Empty Stack");
+    if ( isEmpty() ) {
+        cerr << "Empty Stack" << endl;
+        exit(1);
+    }
     ElemType top = head->val;
     Node* oldNode = head;
     head = head->next;

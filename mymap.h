@@ -17,13 +17,20 @@ class MyMap {
 
     private:
 
-        struct pair {
+        struct node {
             string key;
             ValType value;
+            node* left;
+            node* right;
         };
 
-        MyVector<pair> entries;
-        int findIndexOfKey(string key);
+        node* root;
+
+        node* treeSearch(node* t, string key);
+        void treeEnter(node* &t, string key, ValType value);
+
+        void treePrint(node* t);
+        void treeDelete(node* t);
 };
 
 #include "mymap.cpp"

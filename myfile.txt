@@ -1,0 +1,11 @@
+Thank you for joining the Scientific Computing course!
+Please take a few moments to read through the course welcome page followed by watching the introductory and week one lecture videos. There is a lot of useful information there about the course.
+For now, you should plan to allocate between five and 10 hours per week on the course. There will be roughly two hours of lectures per week, as well as weekly quizzes (graded automatically) for each lecture.
+In this course you will learn how to recognize and solve numerically practical problems which may arise in your research. Given the computational nature of the course, access to MATLAB (www.mathworks.com) or Octave (www.gnu.org/software/octave) is essential. MATLAB provides student editions for $99 that can be downloaded via the web.
+MathWorks is pleased to provide a special license to you as a course participant to use for your Coursera course. This is a limited license for the duration of your course plus 30 days and is intended to be used only for course work and not for commercial purposes.
+Below is the MATLAB download link for your class:
+https://www.mathworks.com/licensecenter/classroom/scientificcomp
+Octave is a free (or by donation) alternative to MATLAB that can also be downloaded and installed via the web. Either software should suffice for all the needs of the course, but MATLAB is the strongly recommended alternative.
+To complement the course, a set of notes detailing each individual lecture is included. The notes should be read through thoroughly and routinely as all the course content is contained therein. It is imperative that the student engage in a focused effort to learn the notes as the lectures are simply a supplement to the notes, not the other way around. You are also encouraged to interact with each other within the discussion forums in order to arrive at the various solution sets. Course Lecture Packet:
+Download: Course Lecture Notes Packet
+Again, welcome, and I hope that you enjoy this course!

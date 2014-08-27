@@ -31,27 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="buffer.cpp" />
 		<Unit filename="buffer.h" />
-		<Unit filename="error.cpp" />
 		<Unit filename="error.h" />
-		<Unit filename="file.txt" />
+		<Unit filename="filereader.cpp" />
 		<Unit filename="grid.h" />
-		<Unit filename="map.h" />
-		<Unit filename="mymap.cpp" />
+		<Unit filename="myfile.txt" />
+		<Unit filename="myhashmap.h" />
 		<Unit filename="mymap.h" />
-		<Unit filename="mymap_client.cpp" />
 		<Unit filename="myqueue.h" />
 		<Unit filename="mystack.h" />
 		<Unit filename="myvector.h" />
 		<Unit filename="queue.h" />
 		<Unit filename="random.h" />
-		<Unit filename="scanner.h" />
 		<Unit filename="set.h" />
-		<Unit filename="simpio.cpp" />
-		<Unit filename="simpio.h" />
-		<Unit filename="strlib.cpp" />
 		<Unit filename="strlib.h" />
+		<Unit filename="temp.txt" />
 		<Extensions>
 			<code_completion />
 			<debugger />

@@ -1,5 +1,4 @@
 #include <iostream>
-#include "simpio.h"
 using namespace std;
 
 // n recursive calls
@@ -14,30 +13,21 @@ void permute(string soFar, string rest) {
         }
 }
 
-void subsets(string soFar, string rest) {
-    if (rest == "")
-        cout << soFar << endl;
-    else {
-        subsets( soFar + rest[0], rest.substr(1) );
-        subsets( soFar, rest.substr(1));
-    }
-}
-
 void listPermutations(string s) {
     permute("", s);
 }
 
-void listSubsets(string s) {
-    subsets("", s);
+string getLine(string prompt) {
+    string line;
+    cout << prompt;
+    getline(cin, line);
+    return line;
 }
 
 int main() {
     while (true) {
-        cout << ">";
-        string s = getLine();
-        //listPermutations(s);
-        listSubsets(s);
+        string s = getLine(">");
+        listPermutations(s);
     }
-
     return 0;
 }
